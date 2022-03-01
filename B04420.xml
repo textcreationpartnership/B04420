@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most wonderful and true relation of one Mr. Philips, who was stung to death by a serpent; in Stocks-Market on Saturday last, and was afterwards brought to life again and perfectly cured by a wonderful medicine, in half an hours time, and is in perfect health. With account what that medicine was, and who prepared it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04420</idno>
+            <idno type="STC">Wing M2935</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[208*]</idno>
+            <idno type="EEBO-CITATION">99886971</idno>
+            <idno type="PROQUEST">ocm99886971</idno>
+            <idno type="VID">181532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181532)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[211])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most wonderful and true relation of one Mr. Philips, who was stung to death by a serpent; in Stocks-Market on Saturday last, and was afterwards brought to life again and perfectly cured by a wonderful medicine, in half an hours time, and is in perfect health. With account what that medicine was, and who prepared it.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Bradford in Little Britain,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:181532:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>A moſt Wonderful and True RELATION Of one Mr. <hi>Philips,</hi> who was <hi>Stung to Death by a Serpent.</hi> In <hi>Stocks-Market</hi> on <hi>Saturday</hi> laſt, and was afterwards brought to Life again and perfectly Cured by a Wonderful Medicine, is half an Hours time, and is it perfect Health. With Account what that Medicine was, and who prepared it.</head>
+            <p>ON <hi>Saturday</hi> laſt, <hi>March</hi> the 26. 1698. The famous Mr. <hi>Stringer</hi> the Chymiſt, (who made the Extraordinary Seperations of Metals, and the Artificial Gem, before his Imperial Majeſty the <hi>Czar</hi> of <hi>Muſcovy,</hi> mentioned the laſt <hi>Wedneſ<g ref="char:EOLhyphen"/>day's Mercury</hi>) went to ſee the Curious Collection of <hi>Animals, Minerals,</hi> and Re<g ref="char:EOLhyphen"/>ctified <hi>Vegetables,</hi> now ſhowed in <hi>Stocks-Market;</hi> It chanced that the Man who ſhewed the Curioſities, ſeeing him more than ordinarily diligent in his Enquiries and Remarks upon ſuch natural productions, attempted to take the <hi>Viper</hi> (or <hi>Serpent</hi>) out of its Glaſs, as Mr. <hi>Stinger</hi> did a Snake out of another Glaſs; but had the miſ<g ref="char:EOLhyphen"/>fortune to be Bitten by it, whereupon his Finger ſwelled ſuddenly; and diſmal Symptoms approach'd inſtantly: a Chyrugion was fetched, who nauteriz'd the Finger with hot Irons; Venice-Treacle and Oyl of Vipers was applied, but all in vain; ſeveral great Phyſicians propoſed to be adviſed with, and Meſſengers diſpatch'd to fetch the Doctors, but before any could be brought to him, the Contagious Poyſon ſeized his Head, Stomach, and Blader, with extream Swellings of his Hands and Arms, and he to apperance turn'd Yellow, and Dead. Then Mr. <hi>Stinger</hi> diſco<g ref="char:EOLhyphen"/>vered himſelf, ſaying, It was time for him to go to work ſince no other help could be had: He produced an Acid Preparation of his own preparing (called <hi>Elixir Vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iols Colebachij</hi>) and cauſed a ſmall Chyrurgion (who lives in <hi>New Round Court</hi> in the <hi>Strand</hi>) to Anoint the Swelled part, and gave him ſome of the ſame inwardly which wrought <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oulons <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that not only all <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that the Perſon revived, and was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble in Half an Hours time to walk, and did more then walk half a Mile home to his Ludgins, and in perfect Health: Which made the Phyſicians wonder, when th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, eve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a moſt Mir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>culons Cure, the like of which they had never read of, nor <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it is the plain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt demonſtration yet produced to the World by any Man, that all Animal Poyſons are Alkalions, and not Acid: A more perfect Hiſtory of this will be ſuddenly pub<g ref="char:EOLhyphen"/>liſhed by a Great Phyſician, in a little <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne. It is ſaid that this Mr. <hi>Stringer</hi> now <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come to love in <hi>York-Builds</hi> in the <hi>Strand.</hi>
+            </p>
+            <p>If any doubt the Truth of this Rel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion they may be <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own Mouth, at the <hi>Collection</hi> in <hi>Stocks-Mar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> aforſaid.</p>
+            <p>
+               <hi>Becauſe that many perhaps, have not ſeen the laſt</hi> Wedneſday's Me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cury, <hi>we have here Inſerted ſome Paſſangers betwixt the</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zat <hi>of</hi> Muſcovy <hi>and</hi> Mr. Stringer.</p>
+            <p>The <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſent ſome days ſince for Mr. <hi>Stringer,</hi> an <hi>Oxford</hi> Chymiſt, to ſhew him ſome <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Choiceſt Secrets and Experiments known in <hi>England;</hi> accordingly Mr. <hi>Stringer</hi> drew up a Claſs (or Number) of Experiments, <hi>viz.</hi> Some in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>parating and Refining of Mer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Minerals, ſome Geometrical, ſome Medicin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, others <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loſophical, to the number of 24 Exper<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when they were drawn up, the <hi>Czar</hi> elect <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne to be done firſt; and it ſeems it was one of the moſt difficult Operations, which ſhews that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is skill'd in Natural Philoſophy. However <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ired to ſee the Experiment done, which <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Metals,</hi> with a deſtroying <hi>Mineral</hi> together <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Gold, Silver, Copper, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, with An<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to one Lun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, then to diſſolve them all, and then <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeparate each Metal diſtinct again, without deſtroyning and called the Gold from the reſt of the Metal mi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, being tranſported into a merry Vein, cold <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f his Majeſty would wear that Gold is a Ring for his ſake, he would make him an Artificial Ce<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> colour in pleaſed to name, to ſet in it, out of an Old Broom ſtaff and a peice of Flint that lay by them <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Majeſty being pleaſed with the Fancy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed it to be done, be ſtaying by part of the time, and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ry the reſt till it was done, and then it proved ſo hard, that it cut Glaſs.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>J. Bradford</hi> in Little <hi>Brit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
